@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/view/footer.jsp=UTF-8
+encoding//WebContent/view/user/list.jsp=UTF-8
+encoding//src/controller/user/RegisterUserController.java=UTF-8
+encoding//src/model/service/UserManager.java=UTF-8

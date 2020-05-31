@@ -1,0 +1,1 @@
+<% response.sendRedirect(request.getContextPath() + "/view/item/list"); %>
